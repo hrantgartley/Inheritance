@@ -13,6 +13,7 @@
 
 class JuniorBowler: public Bowler{
     private:
+    
         int Age;
         int NumAbsences;
         char Gender;
